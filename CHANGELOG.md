@@ -3,6 +3,7 @@
 ## 2.0.7
 
 Remove redundant title attributes from Table cells and column headers that duplicate the visible text.
+Replace underline text with bold in Table css
 
 ## 2.0.6
 
