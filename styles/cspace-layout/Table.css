@@ -33,7 +33,7 @@
 }
 
 .common :global(.ReactVirtualized__Table__sortableHeaderColumn) > span {
-  text-decoration: underline;
+  font-weight: bold;
 }
 
 .common :global(.ReactVirtualized__Table__sortableHeaderColumn):focus {
